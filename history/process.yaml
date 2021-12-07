@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSM-RID26-08-SPKIRB000-telemetered-spkir_abj_dcl_instrument
 data_stream: CE02SHSM-RID26-08-SPKIRB000-telemetered-spkir_abj_dcl_instrument
 end_date: '2021-12-06T22:32:33.975Z'
-last_updated: '2021-12-07T07:28:30.233989Z'
+last_updated: '2021-12-07T07:40:25.725510'
 start_date: '2015-04-02T20:45:14.168Z'
-status: pending
+status: success
